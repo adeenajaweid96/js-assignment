@@ -13,6 +13,7 @@
 
 // 4. Write a script to save student’s bio data in JS variables and
 // show the data in alert boxes.
+
 // var studentName = "John";
 // var studentAge = "14 years";
 // var course = "Software Engineer";
@@ -46,5 +47,5 @@
 
 // 9. Store following string in a variable and show in alert and
 // browser through JS
-// var design ="----------------------------------||-------------------------------";
+// var design ="“▬▬▬▬▬▬▬▬▬ஜ۩۞۩ஜ▬▬▬▬▬▬▬▬▬”";
 // alert(design);
